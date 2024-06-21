@@ -1,4 +1,4 @@
-# CV Juan A. Valdivia Camacho
+# CV Sergio López García
 
 ![cv](./public/images/png/image.png)
 
