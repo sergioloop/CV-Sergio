@@ -143,6 +143,7 @@ export default function App() {
                   <ItemList text="training.item9" />
                   <ItemList text="training.item10" />
                   <ItemList text="training.item11" />
+                  <ItemList text="training.item12" />
                 </UnOrderedList>
               </Card>
             </FlexCol>
