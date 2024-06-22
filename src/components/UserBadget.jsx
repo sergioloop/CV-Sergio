@@ -14,7 +14,7 @@ export default function UserBadget() {
       />
       <h1>
         <div className="flex flex-col">
-          <strong className="name">Juan Valdivia</strong>
+          <strong className="name">Sergio López García</strong>
           <strong className="surname">
             {firstCharAtToUpperCase(t("developer"))} Front-End
           </strong>
