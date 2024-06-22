@@ -11,13 +11,13 @@
     "download": "descargar",
     "developer": "desarrollador",
     "phones": {
-        "phone1": "+34 640 282 614",
-        "phone2": "+34 936 409 497"
+        "phone1": "+34 617 519 290",
+        "phone2": "+34 635 400 924"
     },
     "contacts": {
-        "email": "juandevnjv@gmail.com",
+        "email": "sergioloop@gmail.com",
         "address": "España, Barcelona, Sant Boi de Llobrebat, 08830",
-        "web": "https://cv-juan.vercel.app/"
+        "web": "https://cv-sergio-alpha.vercel.app/"
     },
     "aboutMe": {
         "title": "acerca de mí",
@@ -37,7 +37,7 @@
     "profile": "perfil",
     "contact": "contacto",
     "training": {
-        "title": "formación",
+        "title": "experiencia deportiva",
         "item1": "Introducción a la Programación. Formación On-Line, impartida por Universitas Telefónica. 30 horas, 2017",
         "item2": "Desarrollo en HTML5, CSS Y JAVASCRIPT DE WEB APPS incluido Móviles Firefox OS 3ª Generación. Formación On-Line, impartida por Universidad Politécnica de Madrid. 50 horas, 2015.",
         "item3": "Creación y Retoque de imágenes con software Gimp. Formación On-Line, impartida por Universidad de Málaga. 27 horas, 2014",
