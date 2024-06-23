@@ -2,9 +2,9 @@
     "spanish": "español",
     "inglish": "inglés",
     "catalonia": "catalan",
-    "firstName": "Juan Antonio",
-    "surname": "Valdivia Camacho",
-    "dateOfBirth": "16/06/1975",
+    "firstName": "Sergio",
+    "surname": "López García",
+    "dateOfBirth": "07/06/1973",
     "email": "correo electrónico",
     "phone": "teléfono",
     "address": "dirección",
@@ -21,8 +21,8 @@
     },
     "aboutMe": {
         "title": "acerca de mí",
-        "item1": "Soy una persona muy responsable, me gusta el trabajo en equipo y compartir los pocos conocimientos que tengo incondicionalmente.",
-        "item2": "Aunque mi experiencia profesional en el ámbito de la informática, no es mucha, puedo aportar ganas de aprender e interés. Me gusta el trabajo bien hecho."
+        "item1": "Soy una persona que disfruta en un campo de fútbol, apasionado de todo lo que rodea a los porteros. Me gusta trabajar en un entorno amigable, formativo y prestar atención a los detalles que son lo que marcan la diferencia en la portería.",
+        "item2": "Llevo en activo más de 10 años ininterrumpidos, aunque mi experiencia en entrenos de porteros es más de 15 años. No hay nada más privilegiado en la vida que poder trabajar en lo que a uno le apasiona y en mi caso es la portería de fútbol."
     },
     "name": "nombre",
     "birthdate": "fecha de nacimiento",
