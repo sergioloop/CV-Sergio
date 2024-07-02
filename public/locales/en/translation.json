@@ -1,28 +1,29 @@
 {
-    "spanish": "spanish",
-    "inglish": "inglish",
+   "spanish": "español",
+    "inglish": "inglés",
     "catalonia": "catalan",
-    "firstName": "Juan Antonio",
-    "surname": "Valdivia Camacho",
-    "email": "email",
-    "phone": "phone",
-    "address": "address",
-    "download": "download",
-    "goalkeeper_coach": "goalkeeper coach",
+    "firstName": "Sergio",
+    "surname": "López García",
+    "dateOfBirth": "07/06/1973",
+    "email": "correo electrónico",
+    "phone": "teléfono",
+    "address": "dirección",
+    "download": "descargar",
+    "goalkeeper_coach": "entrenador de porteros",
     "phones": {
-        "phone1": "+34 640 282 614",
-        "phone2": "+34 936 409 497"
+        "phone1": "+34 617 519 290",
+        "phone2": "+34 635 400 924"
     },
     "contacts": {
-        "email": "juandevnjv@gmail.com",
-        "address": "Spain, Barcelona, ​​Sant Boi de Llobregat, 08830",
-        "web": "https://cv-juan.vercel.app/"
+        "email": "sergioloop@gmail.com",
+        "address": "España, Barcelona, Sant Boi de Llobrebat, 08830",
+        "web": "https://cv-sergio-alpha.vercel.app/"
     },
     "dateOfBirth": "16/06/1975",
     "aboutMe": {
         "title": "about me",
-        "item1": "I am a very responsible person, I like teamwork and sharing the little knowledge I have unconditionally.",
-        "item2": "Although my professional experience in the field of computing is not much, I can bring a desire to learn and interest. I like the work well done."
+        "item1": "I am a person who enjoys being on a football pitch, passionate about everything that surrounds goalkeeping. I like to work in a friendly, formative environment and pay attention to the details that make the difference in goalkeeping.",
+        "item2": "I have been active for more than 10 uninterrupted years, although my experience in goalkeeping training is more than 15 years. There is nothing more privileged in life than to be able to work in what you are passionate about and in my case it is football goalkeeping."
     },
     "name": "name",
     "birthdate": "birthdate",
@@ -37,28 +38,33 @@
     "profile": "profile",
     "contact": "contact",
     "training": {
-        "title": "training",
-        "item1": "Introduction to Programming. On-Line Training, taught by Universitas Telefónica. 30 hours, 2017",
-        "item2": "Development in HTML5, CSS AND JAVASCRIPT OF WEB APPS including Mobile Firefox OS 3rd Generation. On-Line Training, taught by the Polytechnic University of Madrid. 50 hours, 2015.",
-        "item3": "Creation and Retouching of images with Gimp software. On-Line Training, taught by the University of Malaga. 27 hours, 2014",
-        "item4": "Web with XHTML and CSS. In-person training, taught by Barcelona Activa. 3 hours, 2013",
-        "item5": "Principles of Web Layout. In-person training, taught by Barcelona Activa. 3 hours, 2013",
-        "item6": "Introduction to CSS3. In-person training, taught by Barcelona Activa. 3 hours, 2013",
-        "item7": "Dreamweaver: Design and Integrate Websites with the HTML editor. In-person training, taught by Barcelona Activa. Duration: 6 hours, 2013",
-        "item8": "Communication and Network Technician, Maintenance of Computer Equipment. In-person training, given by www.espai.es. Duration: 200 hours (theoretical-practical), 2013",
-        "item9": "Masonry Course. In-person training, taught by the Gaudí Institute. Duration: 6 hours, 2011",
-        "item10": "Preventive resource. Construction Sector. In-person training, taught by the Gaudí Institute. Duration: 60 hours, 2008",
-        "item11": "Graduate"
+        "title": "sport skills",
+        "item1": "teamwork", "item2": "good working environment",
+        "item2": "Good working environment",
+        "item3": "Punctuality and commitment.",
+        "item4": "Planning of tasks",
+        "item5": "Effective communication",
+        "item6": "Interpersonal skills", "item7": "Flexibility",
+        "item7": "Flexibility and adaptability",
+        "item8": "Group moderation.",
+        "item9": "Sports psychology",
+        "item10": "Growth mindset",
+        "item11": "Initiative and self-management", "item11": "Initiative and self-management",
+        "item12": "Digital skills"
     },
     "professionalExperiencie": {
         "title": "professional experiencie",
-        "item1": "Constructions and Projects FRAJOMI XXI. Construction company. Job position: 1st Officer. (June 2020 – April 2023)",
-        "item2": "AMAZON. Job position: Piking Job. (November 2019 – February 2020)",
-        "item3": "HURIK INSTALLATIONS AND ASSEMBLY. Assembly of Elevators. Job position: Laborer. (June - August / 2019)",
-        "item4": "CONSTRUCTIONS NOELBA, SL. Construction company. Job position: 1st Officer. (November 2015 – September 2018)",
-        "item5": "SP3 REHABILITATION WORKS AND SERVICES. Construction company. Job position: 1st Officer. (April 2008 – May 2009)",
-        "item6": "AQUA TERRA COMPREHENSIVE MANAGEMENT. Construction company. Job position: 1st Officer. (September 2007 – April 2008)",
-        "item7": "FONT HABITAT. Construction company. Job position: 1st Officer. (October 2000 – August 2007)",
-        "item8": "CAPRABO. Supermarkets. Job position: Stocker / Supervisor. (July 1996 – August 1999)"
+       "item12": "C F Fontsanta Fatjó. Goalkeeping coach. Goalkeeping coach first team female 3 national team (April 2024 - Currently)",
+        "item11": "Sant Ignasi C E. Goalkeeper coordinator. Goalkeeping coordinator and coach for all categories of the club's grassroots and amateur teams (June 2023 - Currently)",
+        "item10": "C F Sant Andreu de la Barca. Goalkeeping coordinator. Goalkeeping coordinator and coach for all categories of the club's grassroots and first team (June 2022 - Currently)",
+        "item9": "F C Santboià. Goalkeeping coordinator. Goalkeeping coordinator and coach for all categories of the club's grassroots football (June 2022 - June 2024)",
+        "item1": "TK Soccer Academy. Goalkeeping coordinator. Coordinator and goalkeeping coach of the school and in charge of the work planning of the different events held during the year. (June 2020 - Currently)",
+        "item2": "C F Fontsanta Fatjó. Goalkeeping coach. Goalkeeping coach for all categories of the club, both male and female (June 2018 - August 2022)",
+        "item3": "C E L'Hospitalet. Goalkeeping coordinator. Goalkeeping coordinator for all categories of the club's grassroots football. In charge of the planning of the sessions and trainer in the same of the 11-a-side football. Goalkeeping coach of the youth team and part of the technical staff (August 2020 - June 2022)",
+        "item4": "F C Santboià. Goalkeeping coordinator. Goalkeeping coordinator and goalkeeping coach for all categories of the club's grassroots football (August 2019 - June 2020)",
+        "item5": "C F Santa Eulàlia. Goalkeeping coordinator and coach for all categories of the club's grassroots football (April 2019 - June 2020)", 
+        "item6": "C F Pallejà. Goalkeeping coach. Goalkeeping coach of all categories of the club, both male and female. Also in charge of the goalkeeping specifics of the amateur men's team that played in 2nd Catalan Division, as well as the specifics of the amateur women's team, playing in the National League. Displacements with both male and female amateur teams, prioritising the female team (June 2019 - August 2017)",
+        "item7": "C F Ciudad Cooperativa. Goalkeeping coach. Goalkeeping coach in the specific sessions of all the youth football and men's amateur team, which played in 3rd Catalan getting the promotion in the season 16-17, playing my second season in the entity in 2nd Catalan (June 2018 - August 2016)",
+        "item8": "U E Castelldefels. Goalkeeping coach. After a few years disengaged from the specific goalkeeping since my retirement as an active player, I return to this facet 11 years later coaching the alevín and infantile groups. Previously, as an active goalkeeper I had coached the youth goalkeepers of different teams... (June 2016 - August 2015)".
     }
 }

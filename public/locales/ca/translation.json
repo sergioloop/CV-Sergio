@@ -1,23 +1,23 @@
 {
     "spanish": "español",
-    "inglish": "anglès",
+    "inglish": "inglés",
     "catalonia": "catalan",
-    "firstName": "Juan Antonio",
-    "surname": "Valdivia Camacho",
-    "dateOfBirth": "16/06/1975",
-    "email": "correu electrònic",
-    "phone": "telèfon",
-    "address": "adreça",
-    "download": "descarregar",
-    "goalkeeper_coach": "entrenador de porters",
+    "firstName": "Sergio",
+    "surname": "López García",
+    "dateOfBirth": "07/06/1973",
+    "email": "correo electrónico",
+    "phone": "teléfono",
+    "address": "dirección",
+    "download": "descargar",
+    "goalkeeper_coach": "entrenador de porteros",
     "phones": {
-        "phone1": "+34 640 282 614",
-        "phone2": "+34 936 409 497"
+        "phone1": "+34 617 519 290",
+        "phone2": "+34 635 400 924"
     },
     "contacts": {
         "email": "sergioloop@gmail.com",
-        "address": "España, Barcelona, ​​Sant Boi de Llobregat, 08830",
-        "web": "https://cv-juan.vercel.app/"
+        "address": "España, Barcelona, Sant Boi de Llobrebat, 08830",
+        "web": "https://cv-sergio-alpha.vercel.app/"
     },
     "aboutMe": {
         "title": "sobre mi",
