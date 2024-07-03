@@ -19,7 +19,6 @@
         "address": "España, Barcelona, Sant Boi de Llobrebat, 08830",
         "web": "https://cv-sergio-alpha.vercel.app/"
     },
-    "dateOfBirth": "16/06/1975",
     "aboutMe": {
         "title": "about me",
         "item1": "I am a person who enjoys being on a football pitch, passionate about everything that surrounds goalkeeping. I like to work in a friendly, formative environment and pay attention to the details that make the difference in goalkeeping.",
@@ -39,17 +38,17 @@
     "contact": "contact",
     "training": {
         "title": "sport skills",
-        "item1": "teamwork", "item2": "good working environment",
+        "item1": "teamwork",
         "item2": "Good working environment",
         "item3": "Punctuality and commitment.",
         "item4": "Planning of tasks",
         "item5": "Effective communication",
-        "item6": "Interpersonal skills", "item7": "Flexibility",
+        "item6": "Interpersonal skills",
         "item7": "Flexibility and adaptability",
         "item8": "Group moderation.",
         "item9": "Sports psychology",
         "item10": "Growth mindset",
-        "item11": "Initiative and self-management", "item11": "Initiative and self-management",
+        "item11": "Initiative and self-management",
         "item12": "Digital skills"
     },
     "professionalExperiencie": {
@@ -65,6 +64,6 @@
         "item5": "C F Santa Eulàlia. Goalkeeping coordinator and coach for all categories of the club's grassroots football (April 2019 - June 2020)", 
         "item6": "C F Pallejà. Goalkeeping coach. Goalkeeping coach of all categories of the club, both male and female. Also in charge of the goalkeeping specifics of the amateur men's team that played in 2nd Catalan Division, as well as the specifics of the amateur women's team, playing in the National League. Displacements with both male and female amateur teams, prioritising the female team (June 2019 - August 2017)",
         "item7": "C F Ciudad Cooperativa. Goalkeeping coach. Goalkeeping coach in the specific sessions of all the youth football and men's amateur team, which played in 3rd Catalan getting the promotion in the season 16-17, playing my second season in the entity in 2nd Catalan (June 2018 - August 2016)",
-        "item8": "U E Castelldefels. Goalkeeping coach. After a few years disengaged from the specific goalkeeping since my retirement as an active player, I return to this facet 11 years later coaching the alevín and infantile groups. Previously, as an active goalkeeper I had coached the youth goalkeepers of different teams... (June 2016 - August 2015)".
+        "item8": "U E Castelldefels. Goalkeeping coach. After a few years disengaged from the specific goalkeeping since my retirement as an active player, I return to this facet 11 years later coaching the alevín and infantile groups. Previously, as an active goalkeeper I had coached the youth goalkeepers of different teams... (June 2016 - August 2015)"
     }
 }
