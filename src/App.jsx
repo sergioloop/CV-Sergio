@@ -128,6 +128,10 @@ export default function App() {
                   <ItemList text="professionalExperiencie.item6" />
                   <ItemList text="professionalExperiencie.item7" />
                   <ItemList text="professionalExperiencie.item8" />
+                  <ItemList text="professionalExperiencie.item9" />
+                  <ItemList text="professionalExperiencie.item10" />
+                  <ItemList text="professionalExperiencie.item11" />
+                  <ItemList text="professionalExperiencie.item12" />
                 </UnOrderedList>
               </Card>
               <Card title="training.title">
