@@ -19,7 +19,7 @@ export const technologicalSkills = [
   {
     id: 1,
     href: "https://i.pinimg.com/564x/90/18/53/90185367541f87c6f16add8574714efe.jpg",
-    name: "JavasScript",
+    name: "U E Castelldefels",
     fill: "#F7D800",
     Component: (props) => JavasScript(props),
   },
