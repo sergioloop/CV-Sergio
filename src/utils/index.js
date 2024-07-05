@@ -25,7 +25,7 @@ const socialNetWork = [
     id: 1,
     name: "LinkEdin",
     component: "linkedin",
-    url: "https://www.linkedin.com/in/juan-antonio-valdivia-camacho-09598a279/",
+    url: "https://www.linkedin.com/in/sergio-gkc-a90bb8317/",
   },
   {
     id: 2,
