@@ -9,8 +9,8 @@ export default function LinkSkill({ data }) {
         >
             {data.Component({
                 fill:
-                    (data.fill && data.fill) 
-                    (data.stroke && data.stroke) 
+                    (data.fill && data.fill) ||
+                    (data.stroke && data.stroke) ||
                     "",
                 height: "100%",
                 width: "100%",
