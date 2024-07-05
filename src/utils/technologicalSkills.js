@@ -47,7 +47,7 @@ export const technologicalSkills = [
   },
   {
     id: 5,
-    href: "http://www.lafutbolteca.com/wp-content/uploads/2010/08/Escudo-Futbol-Club-Santboi%C3%A0.jpg",
+    href: "https://fcsantboia.cat/lib2024/img/fcsantboia.png",
     name: "F C Santboià",
     Component: (props) => SkillImg(props),
   },
