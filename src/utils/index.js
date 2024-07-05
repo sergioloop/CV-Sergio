@@ -31,7 +31,7 @@ const socialNetWork = [
     id: 2,
     name: "GitHub",
     component: "github",
-    url: "https://github.com/JuanDNJ",
+    url: "https://github.com/sergioloop",
   },
 ];
 
